@@ -1,0 +1,37 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.coursera.org/learn/ai/discussions"
+#   2) curl --cookie cookies.txt "https://www.coursera.org/learn/ai/discussions"
+#   3) aria2c --load-cookies cookies.txt "https://www.coursera.org/learn/ai/discussions"
+#
+.coursera.org	TRUE	/	FALSE	1621322645	__204u	2474868199-1589786644235
+.coursera.org	TRUE	/	FALSE	1621322644	__204r	
+.coursera.org	TRUE	/	FALSE	1656763869	_ga	GA1.2.1116393221.1589786646
+.coursera.org	TRUE	/	FALSE	1601467899	_fbp	fb.1.1589786646488.1742280588
+.coursera.org	TRUE	/	FALSE	0	_hjid	70cdf74e-8133-4b55-beb8-83355090fb2a
+.coursera.org	TRUE	/	FALSE	1601467869	_gcl_au	1.1.1713157770.1591868542
+.coursera.org	TRUE	/	FALSE	1655020887	cpTouchHist_initial	%7B%22RC_First_Medium__c%22%3A%22coursera%22%2C%22RC_First_Source__c%22%3A%22enterprise%22%2C%22RC_First_Campaign__c%22%3A%22website%22%2C%22RC_First_Content__c%22%3A%22corp-to-home-for-enterprise%22%2C%22RC_First_Channel__c%22%3A%22%22%2C%22RC_First_Term__c%22%3A%22%22%2C%22RC_First_Adgroup__c%22%3A%22%22%2C%22RC_First_Source_Detail__c%22%3A%22https%253A%252F%252Fwww.coursera.org%252Flearn%252Fai%22%7D
+.coursera.org	TRUE	/	FALSE	1655020887	cpTouchHist_rolling	%7B%22RC_Acquisition_Medium__c%22%3A%22coursera%22%2C%22RC_Acquisition_Source__c%22%3A%22enterprise%22%2C%22RC_Acquisition_Campaign__c%22%3A%22website%22%2C%22RC_Acquisition_Content__c%22%3A%22corp-to-home-for-enterprise%22%2C%22RC_Acquisition_Channel__c%22%3A%22%22%2C%22RC_Acquisition_Term__c%22%3A%22%22%2C%22RC_Acquisition_Adgroup__c%22%3A%22%22%2C%22RC_Acquisition_Source_Detail__c%22%3A%22https%253A%252F%252Fwww.coursera.org%252Flearn%252Fai%22%7D
+.coursera.org	TRUE	/	FALSE	1655020887	cpTouchHist_recent	%7B%22RC_Recent_Medium__c%22%3A%22coursera%22%2C%22RC_Recent_Source__c%22%3A%22enterprise%22%2C%22RC_Recent_Campaign__c%22%3A%22website%22%2C%22RC_Recent_Content__c%22%3A%22corp-to-home-for-enterprise%22%2C%22RC_Recent_Channel__c%22%3A%22%22%2C%22RC_Recent_Term__c%22%3A%22%22%2C%22RC_Recent_Adgroup__c%22%3A%22%22%2C%22RC_Recent_Source_Detail__c%22%3A%22https%253A%252F%252Fwww.coursera.org%252Flearn%252Fai%22%7D
+.coursera.org	TRUE	/	FALSE	1655020888	trwv.uid	coursera-1591948888105-18462834%3A1
+www.coursera.org	FALSE	/	FALSE	1655020888	driftt_aid	76768379-5b03-4df0-ab3a-e40a1dd26594
+www.coursera.org	FALSE	/	FALSE	1594627288	_gauges_unique_month	1
+www.coursera.org	FALSE	/	FALSE	1623484888	_gauges_unique	1
+www.coursera.org	FALSE	/	FALSE	1623484888	_gauges_unique_year	1
+.coursera.org	TRUE	/	FALSE	1655020889	_mkto_trk	id:748-MIV-116&amp;token:_mch-coursera.org-1590421424596-68056
+.coursera.org	TRUE	/	FALSE	1600180882	_gac_UA-28377374-1	1.1592404882.CjwKCAjw_qb3BRAVEiwAvwq6Vvd-ehOUu4cihCgdEkP0rJscZ5iTIdN-D6jBciV_pTA_be-NwvnMkhoCRKMQAvD_BwE
+.coursera.org	TRUE	/	FALSE	1600180882	_gac_UA-86370891-1	1.1592404882.CjwKCAjw_qb3BRAVEiwAvwq6Vvd-ehOUu4cihCgdEkP0rJscZ5iTIdN-D6jBciV_pTA_be-NwvnMkhoCRKMQAvD_BwE
+.coursera.org	TRUE	/	FALSE	1600180883	_gcl_aw	GCL.1592404883.CjwKCAjw_qb3BRAVEiwAvwq6Vvd-ehOUu4cihCgdEkP0rJscZ5iTIdN-D6jBciV_pTA_be-NwvnMkhoCRKMQAvD_BwE
+www.coursera.org	FALSE	/	FALSE	2223894940	muxData	mux_viewer_id=54aed09a-c6ba-4c56-a344-2153e0213330&amp;msn=0.17291356445923878&amp;sid=1ee9aa2c-1724-493e-800b-feb3fba412d5&amp;sst=1593174684457&amp;sex=1593176440226
+.coursera.org	TRUE	/	TRUE	1597819275	CAUTH	PUx_En8bYyF8P5QHGDbN2hzfaAc5AepHN_YeoK33g7ne0e2aZNj3EdUQn4AOltQlEKn4YHXmsTPDoJuoGkZIoQ.DhxSoZEe4amGG5T5cvg2yQ.leOF3pbBMEibFvNE42f-_ErWwvuOh1g49S2LNj_cOsB6XZQTnXiBef7ZPdpSgxflWmSHByn5enQ6jAwczXd3nmeHR7zvn4EoU7xpuKULRy3tvdj9udsWV4KRSeLUKCxr6hUkRXuYYARbMhiOD61UmLMt3PQEV2OHNmD3f-nN4Jq-B6CbtlEKbCivk_LPByy6
+.coursera.org	TRUE	/	FALSE	1594377725	CSRF3-Token	1594377728.cJmd7zSuFyYQdrFj
+.coursera.org	TRUE	/	FALSE	1593778269	_gid	GA1.2.93540935.1593614172
+.coursera.org	TRUE	/	FALSE	1593693669	__400v	1c71f209-4522-4e5f-d74d-fc522ef50f59
+.coursera.org	TRUE	/	FALSE	1593778269	_uetsid	be678845-f7e3-74b4-7cb7-75e0e7ecfeee
+.coursera.org	TRUE	/	FALSE	1595095869	_uetvid	0d348f6d-098b-fb17-d1e2-6b7b3ce342f7
+www.coursera.org	FALSE	/	FALSE	1656763869	_tq_id.TV-63455409-1.39ed	7a4d68d78fa7cf7a.1589786646.0.1593691869..
+.coursera.org	TRUE	/	FALSE	1593691929	_dc_gtm_UA-28377374-1	1
+.coursera.org	TRUE	/	FALSE	1593691929	_dc_gtm_UA-86370891-1	1
+.coursera.org	TRUE	/	FALSE	1625228229	stc113717	env:1593691869%7C20200802121109%7C20200702124109%7C1%7C1030880:20210702121109|uid:1589786646770.271812400.9357071.113717.550599800.3:20210702121109|srchist:1030880%3A1592377135%3A20200718065855%7C1030872%3A1592404882%3A20200718144122%7C1030880%3A1593499201%3A20200731064001%7C1030879%3A1593513725%3A20200731104205%7C1030880%3A1593691869%3A20200802121109:20210702121109|nsc:3:20210612080146|tsa:1593691869691.975224945.5259337.9442787979668497.1:20200702124109
+.coursera.org	TRUE	/	FALSE	1593693698	__400vt	1593691898974
