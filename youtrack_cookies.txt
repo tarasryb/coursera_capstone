@@ -5,6 +5,9 @@
 #   2) curl --cookie cookies.txt "https://tracker.intela.io/issues"
 #   3) aria2c --load-cookies cookies.txt "https://tracker.intela.io/issues"
 #
+$Version=0; JSESSIONID=n7hq7t8o49ae15sgbq5hn9ic; $Path=/; jetbrains.charisma.main.security.PRINCIPAL=MTVhMjY2OGUxMTUxMTI5MGMzNjhlZWM5NTJiNGJkNmIyNzc3NjdjZmM3YWU4MTVjYzQwYWE1MWZlYTkwNTcxNzphcHBfZXhjZXB0aW9u; $Path=/
+
+
 tracker.intela.io	FALSE	/hub/api/rest/oauth2	TRUE	1601495961	CASTGC	MDJkZjJkMWEtNjQ5OC00ZjBlLTkwOGUtYjNhM2VlZGRiNzJm.PjFV2mdMRvUpKG7DUfGgaRlGMHFNUVipFG%2BCIp2fV60Ua0pIztajjZhKZEAhDA8FfUvZTUvMP7dpxdbMJ%2BeZ6g%3D%3D
 tracker.intela.io	FALSE	/hub/rest/oauth2	TRUE	1601495961	CASTGC	MDJkZjJkMWEtNjQ5OC00ZjBlLTkwOGUtYjNhM2VlZGRiNzJm.PjFV2mdMRvUpKG7DUfGgaRlGMHFNUVipFG%2BCIp2fV60Ua0pIztajjZhKZEAhDA8FfUvZTUvMP7dpxdbMJ%2BeZ6g%3D%3D
 tracker.intela.io	FALSE	/	TRUE	0	YTJSESSIONID	node01lynattg9t00ri15vqv9t5bgp8528.node0
